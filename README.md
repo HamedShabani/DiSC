@@ -41,8 +41,7 @@ pip install -r requirements.txt
 jupyter notebook notebooks/DiSC_advanced_stability_notebook.ipynb
 ```
 
-Run the notebook cells in order — each step is explained.
-
+The functions are already in the Notebooks for simplicity. They can be transfered to antoher file later
 ---
 
 ## 🧠 Stability Model: Core Math
