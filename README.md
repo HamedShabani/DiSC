@@ -31,7 +31,7 @@ This is a lightweight, self-contained Python toolkit and Jupyter notebook that h
 ## 🚀 Quick Start
 
 ```bash
-git clone [https://github.com/your-username/disc-stability.git](https://github.com/HamedShabani/DiSC)
+git clone https://github.com/HamedShabani/DiSC
 cd DiSC
 
 python -m venv .venv
